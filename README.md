@@ -9,47 +9,51 @@ El objetivo principal es demostrar competencias técnicas y analíticas en un en
 
 ---
 
-## 🗂️ Estructura del repositorio
+# 🗂️ Estructura del repositorio
 
 Entregables/
-│
-├── 1 - Python/
-│ ├── datos/
-│ │ └── datos_ventas_centros_comerciales.csv
-│ ├── notebooks/
-│ │ └── proyecto_final.ipynb
-│ └── src/
-│ └── utils.py
-│
-├── 2 - Statistical Thinking/
-│ ├── Storytelling/
-│ │ └── Presentacion_Airbnb_Madrid.pdf
-│ ├── Entregable 2.ipynb
-│ ├── proyecto_final.ipynb
-│ ├── airbnb_madrid_conditions.parquet
-│ ├── airbnb_madrid_host.parquet
-│ ├── airbnb_madrid_location.parquet
-│ ├── airbnb_madrid_property.parquet
-│ └── airbnb_madrid_reviews.parquet
-│
-├── 3 - Análisis Exploratorio de Datos/
-│ └── (notebooks y análisis exploratorios)
-│
-├── 4 - SQL/
-│ ├── Ficheros_entregable/
-│ │ ├── ALOJAMIENTO.csv
-│ │ ├── ALOJAMIENTO.xlsx
-│ │ ├── PRECIO.xlsx
-│ │ ├── PUNTUACION.xlsx
-│ │ └── UBICACION.xlsx
-│ ├── EntregableSQL_SOLVED.ipynb
-│ └── SQL_entregable_enunciado.pdf
-│
-├── 5 - Dataviz/
-│ ├── analisis_vacunacion.ipynb
-│ ├── Dashboard en PDF.pdf
-│ └── Entregable Dataviz.pdf
-│
+|
+|-- 1 - Python/
+| |-- datos/
+| | └── datos_ventas_centros_comerciales.csv
+| |
+| |-- notebooks/
+| | └── proyecto_final.ipynb
+| |
+| └── src/
+| └── utils.py
+|
+|-- 2 - Statistical Thinking/
+| |-- Storytelling/
+| | └── Presentacion_Airbnb_Madrid.pdf
+| |
+| |-- Entregable 2.ipynb
+| |-- proyecto_final.ipynb
+| |-- airbnb_madrid_conditions.parquet
+| |-- airbnb_madrid_host.parquet
+| |-- airbnb_madrid_location.parquet
+| |-- airbnb_madrid_property.parquet
+| └── airbnb_madrid_reviews.parquet
+|
+|-- 3 - Análisis Exploratorio de Datos/
+| └── (notebooks y análisis exploratorios)
+|
+|-- 4 - SQL/
+| |-- Ficheros_entregable/
+| | |-- ALOJAMIENTO.csv
+| | |-- ALOJAMIENTO.xlsx
+| | |-- PRECIO.xlsx
+| | |-- PUNTUACION.xlsx
+| | └── UBICACION.xlsx
+| |
+| |-- EntregableSQL_SOLVED.ipynb
+| └── SQL_entregable_enunciado.pdf
+|
+|-- 5 - Dataviz/
+| |-- analisis_vacunacion.ipynb
+| |-- Dashboard en PDF.pdf
+| └── Entregable Dataviz.pdf
+|
 └── Requerimientos/
 └── requirements.txt
 
