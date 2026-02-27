@@ -1,7 +1,4 @@
-# 📊 Data Analytics – Entregables  ![Logo Nuclio](logo_nuclio.png)
-**Nuclio Digital School**
-
-
+# 📊 Data Analytics – Entregables
 ![Logo Nuclio](logo_nuclio.PNG)
 
 ## 📌 Descripción del repositorio
