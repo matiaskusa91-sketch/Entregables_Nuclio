@@ -1,6 +1,7 @@
 # 📊 Data Analytics – Entregables  
 **Nuclio Digital School**
-![Logo Nuclio](logo_nuclio.png)
+
+![Logo Nuclio](logo_nuclio.PNG)
 
 ## 📌 Descripción del repositorio
 Este repositorio reúne los **trabajos evaluables del Máster en Data Analytics** cursado en **Nuclio Digital School**.  
