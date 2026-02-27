@@ -1,4 +1,4 @@
-# 📊 Data Analytics – Entregables  
+# 📊 Data Analytics – Entregables  ![Logo Nuclio](logo_nuclio.png)
 **Nuclio Digital School**
 
 
