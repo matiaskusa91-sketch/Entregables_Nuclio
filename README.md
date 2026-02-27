@@ -1,4 +1,4 @@
-# 📊 Data Analytics Master – Entregables  
+# 📊 Data Analytics – Entregables  
 **Nuclio Digital School**
 
 ## 📌 Descripción del repositorio
