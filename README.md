@@ -11,67 +11,7 @@ El objetivo principal es demostrar competencias técnicas y analíticas en un en
 
 # 🗂️ Estructura del repositorio
 
-Entregables/
-|
-|-- 1 - Python/
-|   |
-|   |-- datos/
-|   |   └── datos_ventas_centros_comerciales.csv
-|   |
-|   |-- notebooks/
-|   |   └── proyecto_final.ipynb
-|   |
-|   └-- src/
-|       └── utils.py
-|
-|-- 2 - Statistical Thinking/
-|   |
-|   |-- Storytelling/
-|   |   └── Presentacion Airbnb Madrid....pdf
-|   |
-|   |-- Entregable 2.ipynb
-|   |-- airbnb_madrid_conditions.parquet
-|   |-- airbnb_madrid_host.parquet
-|   |-- airbnb_madrid_location.parquet
-|   |-- airbnb_madrid_property.parquet
-|   |-- airbnb_madrid_reviews.parquet
-|   └-- proyecto_final.ipynb
-|
-|-- 3 - Análisis exploratorios de datos/
-|   |
-|   |-- Ficheros AED/
-|       |
-|       |-- __pycache__/
-|       |   └── funciones.cpython-313.pyc
-|       |
-|       |-- 2019_Datos_Campeonato_Eu....csv
-|       |-- 2020_Datos_Campeonato_Eu....csv
-|       |-- Analisis_Halterofilia_2019_20....csv
-|       |-- Borrador.ipynb
-|       └-- funciones.py
-|
-|   └-- Entregable 3 Enunciado.pdf
-|
-|-- 4 - SQL/
-|   |
-|   |-- Ficheros_entregable/
-|   |   |-- ALOJAMIENTO.csv
-|   |   |-- ALOJAMIENTO.xlsx
-|   |   |-- PRECIO.xlsx
-|   |   |-- PUNTUACION.xlsx
-|   |   └-- UBICACION.xlsx
-|   |
-|   |-- EntregableSQL_SOLVED.ipynb
-|   └-- SQL_entregable_enunciado.pdf
-|
-|-- 5 - Dataviz/
-|   |
-|   |-- Dashboard en PDF.pdf
-|   |-- Entregable Dataviz.pdf
-|   └-- analisis_vacunacion.ipynb
-|
-└-- Requerimientos/
-    └── requirements.txt
+![estructura del repositorio](estructura_repo.png)
 
 ## 🧠 Módulos del máster
 
