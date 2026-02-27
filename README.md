@@ -130,6 +130,7 @@ Diseño y desarrollo de visualizaciones orientadas a negocio:
 - Jupyter Notebook
 - SQL
 - Formatos Parquet
+- Pandas, Nunpy y Matplotlib
 - Looker Studio
 
 ---
